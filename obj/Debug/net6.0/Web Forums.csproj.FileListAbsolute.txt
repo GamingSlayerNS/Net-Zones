@@ -1,0 +1,77 @@
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\appsettings.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.staticwebassets.runtime.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.exe
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.deps.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.runtimeconfig.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Web Forums.pdb
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.csproj.AssemblyReference.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.AssemblyInfoInputs.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.AssemblyInfo.cs
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.csproj.CoreCompileInputs.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.RazorAssemblyInfo.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.RazorAssemblyInfo.cs
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets\msbuild.Web Forums.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets\msbuild.build.Web Forums.props
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Forums.props
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web Forums.props
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\scopedcss\bundle\Web Forums.styles.css
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\scopedcss\projectbundle\Web Forums.bundle.scp.css
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.csproj.CopyComplete
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\refint\Web Forums.dll
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.pdb
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\Web Forums.genruntimeconfig.cache
+C:\Users\nas180011\Documents\GitHub\Web Forums\obj\Debug\net6.0\ref\Web Forums.dll
