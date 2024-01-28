@@ -59,14 +59,24 @@ namespace Web_Forums.Controllers
         [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ZoneTopic,ZoneDiscussion, Author")] Zone zone)
+        public async Task<IActionResult> Create([Bind("Id,ZoneTopic,ZoneDiscussion,Author")] Zone zone)
         {
+            //// Set the Author property to the current user's name
+            //zone.Author = User.Identity?.Name;
+
+            //// Add the zone to the context and save changes
+            //_context.Add(zone);
+            //await _context.SaveChangesAsync();
+            //return RedirectToAction(nameof(Index));
+
             if (ModelState.IsValid)
             {
+                // Add the zone to the context and save changes
                 _context.Add(zone);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            System.Diagnostics.Debug.WriteLine("This will be displayed in output window");
             return View(zone);
         }
 
