@@ -16,7 +16,7 @@
                 @Html.DisplayNameFor(model => model.ZoneTopic)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ZoneDiscussion)
+                Author
             </th>
         </tr>
     </thead>
@@ -27,7 +27,7 @@
                 @Html.DisplayFor(modelItem => item.ZoneTopic)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ZoneDiscussion)
+                @User.Identity?.Name
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
