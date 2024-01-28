@@ -9,45 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_Forums
 build_property.RootNamespace = Web_Forums
-build_property.ProjectDir = C:\Users\nas180011\Documents\GitHub\Web Forums\
+build_property.ProjectDir = C:\Users\nas180011\Documents\GitHub\Web-Forums\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nas180011\Documents\GitHub\Web Forums
+build_property.MSBuildProjectDirectory = C:\Users\nas180011\Documents\GitHub\Web-Forums
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Home/Index.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Home/Privacy.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Shared/Error.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/_ViewImports.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Zones/ShowSearchForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWm9uZXNcU2hvd1NlYXJjaEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/_ViewStart.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nas180011/Documents/GitHub/Web Forums/Views/Shared/_Layout.cshtml]
+[C:/Users/nas180011/Documents/GitHub/Web-Forums/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k966b8bsrb
