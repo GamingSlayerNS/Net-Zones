@@ -11128,23 +11128,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nas180011\\.nuget\\packages\\": {},
+    "C:\\Users\\SpeedyNS.SPEEDYNS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nas180011\\Documents\\GitHub\\Web-Forums\\Web Forums.csproj",
+      "projectUniqueName": "F:\\Github\\Web-Forums\\Web Forums.csproj",
       "projectName": "Web Forums",
-      "projectPath": "C:\\Users\\nas180011\\Documents\\GitHub\\Web-Forums\\Web Forums.csproj",
-      "packagesPath": "C:\\Users\\nas180011\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nas180011\\Documents\\GitHub\\Web-Forums\\obj\\",
+      "projectPath": "F:\\Github\\Web-Forums\\Web Forums.csproj",
+      "packagesPath": "C:\\Users\\SpeedyNS.SPEEDYNS\\.nuget\\packages\\",
+      "outputPath": "F:\\Github\\Web-Forums\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nas180011\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SpeedyNS.SPEEDYNS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11153,6 +11153,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11217,7 +11218,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.115\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
