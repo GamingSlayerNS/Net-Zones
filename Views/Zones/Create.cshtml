@@ -22,7 +22,29 @@
                 <input asp-for="ZoneDiscussion" class="form-control" />
                 <span asp-validation-for="ZoneDiscussion" class="text-danger"></span>
             </div>
-            <div class="hidden">
+            <div class="form-group">
+                <label asp-for="Category" class="control-label">Category</label>
+                <div class="input-group">
+                    <select asp-for="Category" class="form-control">
+                        <option value="Technology">Technology</option>
+                        <option value="Gaming">Gaming</option>
+                        <option value="News">News</option>
+                        <option value="Series">Series</option>
+                        <option value="Music">Music</option>
+                        <option value="Cooking">Cooking</option>
+                        <option value="Travel">Travel</option>
+                        <option value="Sports">Sports</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    <div class="input-group-append">
+                        <div class="input-group-text py-3">
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                    </div>
+                </div>
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+            <div class=" visually-hidden">
                 <label asp-for="Author" class="control-label"></label>
                 <input asp-for="Author" class="form-control" value="@User.Identity?.Name" />
                 <span asp-validation-for="Author" class="text-danger"></span>

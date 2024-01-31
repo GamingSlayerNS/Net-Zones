@@ -2,7 +2,72 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Net Zones</h1>
-    <p>A public web forum for quality discussions...</a>.</p>
+<div class="container mt-5">
+    <h1 class="display-4 font-weight-bold text-primary">Net Zones</h1>
+    <p class="lead">A public web forum for quality discussions...</p>
+
+    <!-- Horizontal divider -->
+    <div class="fancy-divider my-4"></div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <!-- Create Post section -->
+            <div class="mb-4">
+                <h2 class="font-weight-bold">Create Post</h2>
+                <!-- Add your post creation form here -->
+                <form asp-action="Zone/Create">
+                    <div class="form-group">
+                        <label for="postTitle">Title:</label>
+                        <input type="text" class="form-control" id="postTitle" name="postTitle" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Create Post</button>
+                </form>
+            </div>
+
+            <!-- Recent Posts section -->
+            <h2 class="font-weight-bold mb-4">Recent Posts</h2>
+            <!-- Add your post rendering logic here -->
+            <!-- Example post card -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Post Title</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                    <a href="#" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+
+            <!-- Repeat the above structure for more posts -->
+        </div>
+
+        <div class="col-md-4">
+            <!-- Sidebar section (categories, trending, etc.) -->
+            <div class="mb-4">
+                <h2 class="font-weight-bold">Categories</h2>
+                <!-- Add your category rendering logic here -->
+                <!-- Example category list -->
+                <ul class="list-group">
+                    <li class="list-group-item">Tech</li>
+                    <li class="list-group-item">Gaming</li>
+                    <li class="list-group-item">News</li>
+                    <li class="list-group-item">Series</li>
+                    <li class="list-group-item">Music</li>
+                    <li class="list-group-item">Cooking</li>
+                    <li class="list-group-item">Travel</li>
+                    <li class="list-group-item">Sports</li>
+                    <li class="list-group-item">Other</li>
+                </ul>
+            </div>
+
+            <div>
+                <h2 class="font-weight-bold">Trending</h2>
+                <!-- Add your trending content rendering logic here -->
+                <!-- Example trending list -->
+                <ul class="list-group">
+                    <li class="list-group-item">Trend 1</li>
+                    <li class="list-group-item">Trend 2</li>
+                    <li class="list-group-item">Trend 3</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>

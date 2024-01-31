@@ -6,7 +6,7 @@
         public string ZoneTopic { get; set; }
         public string ZoneDiscussion { get; set; }
         public string Author { get; set; }
-
+        public string Category { get; set; }
         public Zone()
         {
 

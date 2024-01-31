@@ -59,7 +59,7 @@ namespace Web_Forums.Controllers
         [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ZoneTopic,ZoneDiscussion,Author")] Zone zone)
+        public async Task<IActionResult> Create([Bind("Id,ZoneTopic,ZoneDiscussion,Author,Category")] Zone zone)
         {
             //// Set the Author property to the current user's name
             //zone.Author = User.Identity?.Name;

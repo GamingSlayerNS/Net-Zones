@@ -1,16 +1,11 @@
 html {
   font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-html {
   position: relative;
   min-height: 100%;
+}
+
+:root {
+    --fancy-gradient: linear-gradient(to right, #4e73df, #e74a3b);
 }
 
 body {
@@ -23,6 +18,21 @@ body {
     margin-bottom: 1rem;
 }
 
-.hidden {
-    display: none;
+.fancy-divider {
+    height: 3px; /* Adjust the height as needed */
+    background: var(--fancy-gradient); /* Gradient colors */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow effect */
+}
+
+footer {
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding: 20px 0;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
 }
